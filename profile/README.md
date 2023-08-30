@@ -1,6 +1,8 @@
-## Hi there 👋
+## Welcome to Trustlist 👋
 
 Trustlist (aka zklassifieds) is a peer-to-peer marketplace using zkp to improve upon an established marketplace model. The application uses UniRep to provide members with provable reputation data, creating enhanced confidence within the community while preserving member privacy.
+
+This project is built by the core contributor from UniRep team.
 <!--
 
 **Here are some ideas to get you started:**
